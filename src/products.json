@@ -1,0 +1,290 @@
+{"products":[
+    {
+        "name": "Tulle Ruffled Bustier Midi Dress",
+        "price": 41.99,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A tulle midi dress featuring a bustier-inspired bodice, sweetheart neckline, straight-cut back, front and back seam detailing, adjustable cami straps, concealed back zipper closure, tiered ruffle hem, and a fit and flare silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- Shell 1: 94% polyester, 6% spandex</p><p>- Shell 2: 100% nylon</p><p>- Lining: 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'9\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw960f2f73/1_front_750/00469488-03.jpg"
+    },
+    {
+        "name": "Abstract Print V-Neck Sweater",
+        "price": 23.99,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit sweater featuring an allover abstract pattern, V-neckline, ribbed trim, and long sleeves.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 72% acrylic, 25% polyester, 3% spandex</p><p>- Machine wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and is wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw05d07f56/1_front_750/00464501-02.jpg"
+    },
+    {
+        "name": "Seamless Mineral Wash Cropped Cami",
+        "price": 9.09,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A seamless knit cami featuring an allover mineral wash, ribbed construction, straight-cut neckline and back, fixed cami straps, and cropped hem.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 96% nylon, 4% spandex</p><p>- Machine wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a S/M</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw0494a397/1_front_750/00480068-14.jpg"
+    },
+    {
+        "name": "Cotton Poplin Shirt & Shorts Set",
+        "price": 27.99,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A cotton poplin woven set featuring a shirt with dropped long sleeves, button-front closures, a chest patch pocket, and basic collar, as well as a pair of shorts with a smocked high-rise waistband and front slant pockets.<p>- This is an independent brand and not a Forever 21 branded item.</p></div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 100% cotton</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw4f83f96c/1_front_750/00477226-02.jpg"
+    },
+    {
+        "name": "Ribbed Bell-Sleeve Crop Top",
+        "price": 17.99,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A ribbed knit crop top featuring an allover mineral wash, crew neck, button-up front, and long bell sleeves.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 100% cotton</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and is wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw478fdd04/1_front_750/00465638-01.jpg"
+    },
+    {
+        "name": "One-Shoulder Bodycon Midi Dress",
+        "price": 19.6,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit midi dress featuring a one-shoulder neckline, ruched construction, asymmetrical hem, sheer mesh overlay, and a bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- Shell: 95% nylon, 5% spandex</p><p>- Lining: 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'9\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwe8b05a13/1_front_750/00465856-03.jpg"
+    },
+    {
+        "name": "Asymmetrical Neckline Bodysuit",
+        "price": 11.9,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit bodysuit featuring an asymmetrical neckline forming a single ruched off-the-shoulder design, long sleeves, and a form-fitting silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 95% polyester, 5% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'6\" and is wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwa28a339a/1_front_750/00470051-04.jpg"
+    },
+    {
+        "name": "Textured Flower Graphic Sweater",
+        "price": 22,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A fuzzy knit sweater featuring a mock neck, front textured flower graphic, long sleeves, and semi-cropped hem.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 100% nylon</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw4bf502cf/1_front_750/00470984-04.jpg"
+    },
+    {
+        "name": "Drop-Sleeve Cardigan Sweater",
+        "price": 17.99,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A ribbed knit cardigan sweater featuring a V-neckline, front patch pockets, button-down front, dropped shoulders, a relaxed fit, and long dolman sleeves.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 60% cotton, 40% acrylic</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw712edbe1/1_front_750/00457528-05.jpg"
+    },
+    {
+        "name": "Active Racerback Cropped Tank Top",
+        "price": 8.4,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">An athletic knit tank top featuring a ribbed construction, scoop neckline, racerback, fixed shoulder straps, and cropped hem.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 95% cotton, 5% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10.5\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwe705a241/1_front_750/00476398-01.jpg"
+    },
+    {
+        "name": "Yin Yang Print Top",
+        "price": 11.2,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit top featuring an allover yin yang print, semi-sheer construction, mock neck, inverse seams, long sleeves, lettuce-edge trim, and semi-cropped hem.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- Shell: 95% polyester, 5% spandex</p><p>- Lining: 100% polyester</p><p>- Machine wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw88c86d2b/1_front_750/00476123-03.jpg"
+    },
+    {
+        "name": "Floral Puff-Sleeve Dress",
+        "price": 22.4,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A woven dress featuring an allover floral print, short puff sleeves, ruffle trim, square neckline and back, a tiered smocked bodice, and midi length.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw9ecda67d/1_front_750/00462766-03.jpg"
+    },
+    {
+        "name": "Decorated Christmas Tree Dress",
+        "price": 45.49,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content > p {  color: #888;  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A velvet mini dress featuring a Christmas tree shape, pom pom ornaments and tinsel throughout, dropped armholes, protruding metallic star at the top, opening for face, and flared silhouette, as well as two woven gifts with ribbon accents and leg holes.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 100% polyester</p><p>- Do not wash</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwcee8eaf2/1_front_750/00466698-02.jpg"
+    },
+    {
+        "name": "Plunging Bow Babydoll Dress",
+        "price": 31.49,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A woven mini dress featuring a plunging V-neckline, adjustable cami straps with statement bow accents, straight-cut back, empire waist, bubble hem, and babydoll silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- Shell: 100% nylon</p><p>- Lining: 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb3f8eba7/1_front_750/00478638-03.jpg"
+    },
+    {
+        "name": "Asymmetrical Split-Hem Midi Skirt",
+        "price": 16.8,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A woven midi skirt featuring an asymmetrical waist, colorblock design, belt loops, a zip fly and hook-and-bar front closure, back welt pocket, and split front hem.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'11.5\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwf9a6f089/1_front_750/00483205-01.jpg"
+    },
+    {
+        "name": "Tie-Front Slit Cami Midi Dress",
+        "price": 8.4,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A woven midi dress featuring a V-neckline, adjustable cami straps, straight-cut back with concealed zipper, shirred bust, self-tie front closure, front leg slit, and straight silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 100% rayon</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw052e0c1d/1_front_750/00486493-02.jpg"
+    },
+    {
+        "name": "Recycled Cotton Distressed High-Rise Mom Jeans",
+        "price": 15.4,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">Crafted from recycled cotton, this pair of mom jeans features distressing, belt loops, a five-pocket construction, and high rise.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 100% recycled cotton</p><p>- Machine wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Size 25</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw3fda982d/1_front_750/00456702-02.jpg"
+    },
+    {
+        "name": "Ponte Midi Pencil Skirt",
+        "price": 12.59,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A ponte knit midi pencil skirt featuring an elasticized waist, fitted silhouette, and vented back hem.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 88% nylon, 12% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5’11.5” and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwe6e01cfe/1_front_750/00475827-03.jpg"
+    },
+    {
+        "name": "Ribbed Knit Lounge Crop Top",
+        "price": 9.09,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A slinky lounge crop top featuring an allover ribbed construction, a scoop neckline, shoulder straps, and longline hem.<p>- Matching bottoms available. Complete the look with 00476714.</p></div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 62% polyester, 34% rayon, 4% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10.5\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw54ecf341/1_front_750/00476713-01.jpg"
+    },
+    {
+        "name": "Bear-ly Awake Graphic Pullover",
+        "price": 17.49,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A fleece pullover featuring front faux shearling teddy bear graphic with embroidered \"Bear-ly Awake\" text, dropped long sleeves, ribbed trim, and a crew neck.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 66% cotton, 34% polyester</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and is wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw0877f1f4/1_front_750/00466998-01.jpg"
+    },
+    {
+        "name": "Sheer Glitter Swim Cover-Up Pants",
+        "price": 11.2,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A pair of mesh swim cover-up pants featuring a glittery finish, sheer construction, high-rise drawstring waist with high-polish bead detailing, and wide leg.<p>- This is an independent brand and not a Forever 21 branded item.</p></div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 87% nylon, 11% spandex, 2% metallic yarn</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwf37aa827/1_front_750/00494375-04.jpg"
+    },
+    {
+        "name": "Asymmetrical Lace-Up Mini Dress",
+        "price": 27.99,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A ponte knit mini dress featuring a round neckline, long sleeves, asymmetrical cutout with self-tie glitter lace-up design, and a bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 63% rayon, 32% nylon, 5% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'11.5\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw9e4c2234/1_front_750/00472968-01.jpg"
+    },
+    {
+        "name": "I Love Skater Boys Cropped Tank Top",
+        "price": 9.09,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A ribbed knit tank top featuring a round neckline, front \"I Love Skater Boys\" graphic, and a cropped hem.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 56% cotton, 39% polyester, 5% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwe07c0400/1_front_750/00466523-03.jpg"
+    },
+    {
+        "name": "Floral Gingham Hipster Panties",
+        "price": 2.1,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A pair of microfiber knit hipster panties featuring an allover mixed floral and gingham pattern.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- Shell: 85% nylon, 15% spandex</p><p>- Lining: 100% cotton</p><p>- Machine wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'9\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw509e53f9/1_front_750/00470158-02.jpg"
+    },
+    {
+        "name": "Satin Strapless Maxi Dress",
+        "price": 20.99,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A satin maxi dress featuring a strapless cut, concealed side zipper, and column silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'9.5\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwa90128b4/1_front_750/00474139-07.jpg"
+    },
+    {
+        "name": "Plunging Button-Front Crop Top",
+        "price": 10.5,
+        "description": "<style> .d_wrapper { padding: 5px 0; font-family: arial, helvetica, san-serif; font-size: 12px; } .d_wrapper h3 { font-weight: bold; text-transform: capitalize; } .d_content { color: #888;} .d_content > p { margin: .5em 0;} .d_content span { display: inline-block; width: 100%; line-height: 16px; padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A woven crop top featuring a plunging neckline, button-front closures, shirred bust, short puff sleeves with elasticized trim, and smocked back panel.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 100% lyocell</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwebb10676/1_front_750/00483121-03.jpg"
+    },
+    {
+        "name": "Floral Print Tie-Front Crop Top",
+        "price": 6.3,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A ribbed knit crop top featuring an allover floral print, drawstring round neckline with front self-tie closure, and tulip hem design.<p>- This is an independent brand and not a Forever 21 branded item.</p></div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 61% polyester, 33% rayon, 6% spandex </p><p>- Machine wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwcd1acfc1/1_front_750/00489160-06.jpg"
+    },
+    {
+        "name": "Spoiled Faux Fur-Trim Cami",
+        "price": 6.3,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit cami featuring a front \"Spoiled\" graphic, faux fur trim, straight-cut neckline and back, and adjustable straps.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- Shell: 90% cotton, 10% spandex</p><p>- Machine wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and is wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw3afeffa5/1_front_750/00472129-01.jpg"
+    },
+    {
+        "name": "Fuzzy Cami & Bolero Set",
+        "price": 20,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A fuzzy knit set featuring a cami with a plunging V-neckline and back, as well as a matching bolero with a round neckline, long sleeves, and ribbed trim.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 69% nylon, 31% acrylic</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'11.5\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw6c145dd2/1_front_750/00474768-01.jpg"
+    },
+    {
+        "name": "Montana Wilderness Graphic Tee",
+        "price": 12.59,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit tee featuring front \"Montana Wilderness\" text, eagle and forest graphics, short sleeves, an allover mineral wash, and a crew neck.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 100% cotton</p><p>- Machine wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw56d30abc/1_front_750/00474257-02.jpg"
+    },
+    {
+        "name": "Zip-Up Puffer Vest",
+        "price": 20.99,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A woven puffer vest featuring a quilted construction, funnel neck, zip-up front, slanted front welt pockets, and a semi-cropped hem.<p>- Layering garments not included.</p></div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- Shell, Lining, & Other contents: 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'9\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw7c24f83a/1_front_750/00464841-01.jpg"
+    },
+    {
+        "name": "Tiered Floral Print Mini Dress",
+        "price": 12,
+        "description": "<style> .d_wrapper { padding: 5px 0; font-family: arial, helvetica, san-serif; font-size: 12px; } .d_wrapper h3 { font-weight: bold; text-transform: capitalize; } .d_content { color: #888;} .d_content > p { margin: .5em 0;} .d_content span { display: inline-block; width: 100%; line-height: 16px; padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A woven mini dress featuring an allover floral print, scoop neck, self-tie front closure, short butterfly sleeves, square-cut back, and tiered babydoll silhouette.<p>- This is an independent brand and not a Forever 21 branded item.</p></div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- -</p><p>- -</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw0af73397/1_front_750/00481926-03.jpg"
+    },
+    {
+        "name": "Rhinestone-Fringe Crop Top",
+        "price": 14.99,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A sweater-knit crop top featuring a round neckline, long sleeves, super cropped hem, and front underbust rhinestone fringe.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 57% rayon, 29% polyester, 14% nylon</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd9b32e5a/1_front_750/00472029-01.jpg"
+    },
+    {
+        "name": "Active Zip-Up Jumpsuit",
+        "price": 24.49,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">An athletic knit jumpsuit featuring a mock neck, zip-up front, and long sleeves with thumbholes.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 80% nylon, 20% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'9\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwf2050faf/1_front_750/00471791-01.jpg"
+    },
+    {
+        "name": "Seamless High-Rise Leggings",
+        "price": 17.49,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A pair of knit leggings featuring a high-rise stretchy waistband and seamless construction.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 96% nylon, 4% spandex</p><p>- Machine wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw0b7d7769/1_front_750/00487591-04.jpg"
+    },
+    {
+        "name": "Sequin Surplice Mini Dress",
+        "price": 34.99,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A woven mini dress featuring allover sequin embellishments, a surplice neckline, dropped shoulders, long peasant sleeves, cinched waist, and bodycon silhouette.<p>- This is an independent brand and not a Forever 21 branded item.</p></div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- Shell: 95% polyester, 5% spandex</p><p>- Lining: 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwf633e70c/1_front_750/00474798-03.jpg"
+    },
+    {
+        "name": "Floral Flare-Leg Jeans",
+        "price": 28,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">Crafted from stretch-denim fabric, this pair of jeans features belt loops, zip fly and button-front closure, traditional five-pocket construction, side floral print graphics, and a flare leg.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 72% cotton, 24% polyester, 3% other fibers, 1% spandex</p><p>- Machine wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a Size 25</p><p>- Inseam: 33\"</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw1effd95b/1_front_750/00474686-02.jpg"
+    },
+    {
+        "name": "Mesh Lettuce-Edge Maxi Skirt",
+        "price": 13.99,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A mesh knit maxi skirt featuring a mid-rise waist, picot and lettuce-edge trim, and straight silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- Shell: 95% polyester, 5% spandex</p><p>- Lining: 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw37edce7a/1_front_750/00479279-01.jpg"
+    },
+    {
+        "name": "Sleeveless Cutout Denim Overalls",
+        "price": 27.99,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">Crafted from non-stretch denim, this pair of overalls features a light wash, basic collar, button-front closures, buttoned chest flap pockets, sleeveless cut, side cutouts that extend to the back, mock zip fly and front pockets, back yoke with patch pockets, light distressing, whiskering, and straight leg.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 100% cotton</p><p>- Machine wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'9.5\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw054044c9/1_front_750/00479033-01.jpg"
+    },
+    {
+        "name": "High-Rise Mom Petite Jeans",
+        "price": 15.4,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A pair of mom jeans featuring a petite fit, high rise, belt loops, and whiskering.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 100% cotton</p><p>- Machine wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Size 25</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw9aa56301/1_front_750/00456659-01.jpg"
+    },
+    {
+        "name": "Chunky Fringe-Trim Sweater",
+        "price": 31,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit sweater featuring a chunky knit construction, round neckline, fringe-trim along the long dropped sleeves, and ribbed-trim edges.<p>- This is an independent brand and not a Forever 21 branded item.</p></div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 35% polyester, 24% nylon, 21% acrylic, 15% rayon, 5% other fibers</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'11.5\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwde2d9437/1_front_750/00464287-04.jpg"
+    },
+    {
+        "name": "Statement Bow Halter Maxi Dress",
+        "price": 11.2,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A woven maxi dress featuring a halter neckline with back statement self-tie bow closure, plunging V-neckline, ruffle trim, open back with button closures, drawstring waist, and a column silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 100% rayon</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw9d5294a1/1_front_750/00486086-01.jpg"
+    },
+    {
+        "name": "Faux Feather Cropped Cami",
+        "price": 27.99,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit cropped cami featuring an allover faux feather design, straight-cut neckline and back, adjustable straps, and an exposed back zipper.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- Shell 1: 100% feather</p><p>- Shell 2: 95% polyester, 5% spandex</p><p>- Dry clean</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb077efa3/1_front_750/00472714-01.jpg"
+    },
+    {
+        "name": "Ruched Satin Cropped Bomber Jacket",
+        "price": 23.99,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A satin bomber jacket featuring a flat collar, zip-up front closure, ribbed trim, chest flap pockets with ring accents, ruched long sleeves and back, and cropped elasticized hem.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 100% polyester</p><p>- Machine wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw558c5879/1_front_750/00475421-04.jpg"
+    },
+    {
+        "name": "Fitted Cami Jumpsuit",
+        "price": 12.59,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content > p {  color: #888;  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\"><b>Style Deals</b> - A knit jumpsuit featuring a fitted silhouette, straight-cut neckline and back, and cami straps.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 94% cotton, 6% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8.5\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw74adae85/1_front_750/00487633-01.jpg"
+    },
+    {
+        "name": "Velour Crop Top",
+        "price": 4.2,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A velour crop top featuring a scoop-cut neck and back, ribbed trim, and shoulder straps.<p>- Matching bottoms available. Complete the look with 00484825.</p></div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 80% rayon, 20% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw54d52940/1_front_750/00484822-03.jpg"
+    },
+    {
+        "name": "High-Rise Cargo Jeans",
+        "price": 34.99,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A pair of cargo jeans featuring a five-pocket construction, leg flap pockets, belt loops, and a high rise.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 71% cotton, 29% polyester</p><p>- Machine wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10\" and wearing a Size 25</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwc0be5425/1_front_750/00493986-03.jpg"
+    },
+    {
+        "name": "Ribbed Pajama Romper",
+        "price": 13.99,
+        "description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A ribbed knit pajama romper featuring a plunging V-neckline, snap-button front closures, long sleeves, and fitted silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 62% polyester, 34% rayon, 4% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10.5\" and wearing a Small</p></div></section>",
+        "image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw51c8ac79/1_front_750/00472548-02.jpg"
+    }
+]}
