@@ -1,0 +1,6 @@
+[submodule "ecommerce-backend"]
+	path = ecommerce-backend
+	url = git@github.com:Rsdjsp/ecommerce-backend.git
+[submodule "ecommerce-fronted"]
+	path = ecommerce-fronted
+	url = git@github.com:Rsdjsp/ecommerce-fronted.git
